@@ -21,3 +21,6 @@ Priorité ???
 ### Chauffer ?
 
 ### Programme nettoyage / vidange
+
+### Option "notes"
+
